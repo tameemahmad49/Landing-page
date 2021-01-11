@@ -1,2 +1,2 @@
 # Landing-page
-gut landing - phlox pro theme.
+gut landing - phlox pro theme.↗↗
